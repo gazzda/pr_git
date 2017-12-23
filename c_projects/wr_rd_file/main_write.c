@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 int main(void)
 {
    const char *text = "Test text";        // Some text
